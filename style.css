@@ -1,0 +1,56 @@
+.navbar-custom{
+    background-color: #a0d4a6;
+    color: aliceblue;
+}
+
+.dropdown-menu{
+    background-color: #709874;
+}
+
+.dropdown-item:hover{
+    background-color: #b67295;
+    color: #F6CDE2;
+}
+
+.nav-item:hover{
+    background-color: #F6CDE2;
+    
+}
+
+.sr-only{
+    background-color: #D2A9BE;
+}
+
+.nav-item:active{
+    background-color: #D2A9BE;
+}
+
+h1{
+    color: #b67295;
+    text-align: center;
+}
+
+#accordion{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3vh;
+}
+
+.card-header{
+    background-color: #F6CDE2;
+    color: #709874;
+}
+
+.btn-link{
+    color: #405642;
+    text-decoration: none;
+}
+
+.btn-link:hover{
+    color: #b67295;
+}
+
+.card-body{
+    color: white;
+    background-color: #709874;
+}
